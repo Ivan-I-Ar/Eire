@@ -1,6 +1,7 @@
 
 Los dioses mayores son aquellos que formaron parte de la [[Información General#*Mito de la Creación*|creación del universo]]. Sin ellos, el universo como lo conocen los mortales no podría existir, por lo que tienen iglesias, seguidores y cultos propios. Aunque su existencia no depende de las alabanzas de los mortales, suelen recibir oraciones y ofrendas a cambio de ligeros cambios en sus dominios o pequeñas fuentes de poder. El culto y las formas de venerar o apaciguar a cada dios mayor es diferente, así como sus formas de ser representados.
 
+---
 # *1° Generación:*
 
 ## **Jorho:**
@@ -35,6 +36,7 @@ Culto:
 - **Aspectos:** Académico, Ermitaño, Ciudadano, Sigiloso.
 - **Ofrendas:** Se le ofrecen plegarias y memorizaciones de conocimientos antiguos. Las ofrendas más preciadas son estudios y notas sobre descubrimientos personales.
 
+---
 # *2° Generación:*
 
 ## **Areia:**

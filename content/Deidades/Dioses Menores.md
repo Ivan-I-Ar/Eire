@@ -5,6 +5,7 @@ Los dioses menores son aquellos que no formaron parte de la [[Información Gener
 Las deidades menores están más en contacto con los planos físicos que las deidades mayores, mientras menos poder tenga la deidad y menor sea su influencia en el plano divino, mayor es su conexión con los planos mortales.
 Los siguientes son solo algunos de los dioses menores más notables, intentar catalogarlos a todos sería un esfuerzo vano:
 
+---
 # *Deidades Domésticas*
 ## **Jwna:**
 Deidad menor del hogar y las posadas, la cual representa los valores de seguridad, hospitalidad y descanso. Es una deidad que protege a todos aquellos que buscan refugio y asentarse en un lugar de forma temporal o permanente.
