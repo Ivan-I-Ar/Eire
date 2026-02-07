@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  THEME_NAME: <Material-Gruvbox>
+  THEME_NAME: Material-Gruvbox
 
 permissions:
   contents: read
