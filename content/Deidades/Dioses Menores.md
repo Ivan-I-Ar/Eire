@@ -3,9 +3,9 @@ Los dioses menores son aquellos que no formaron parte de la [[Información Gener
 - La deidad entra en un estado de "hibernación" hasta volver a ser venerada.
 - Si a pesar de no ser venerada, los mortales aún le adjudican poder al concepto que la deidad representa, esta podría renacer como un demonio de dicho concepto.
 Las deidades menores están más en contacto con los planos físicos que las deidades mayores, mientras menos poder tenga la deidad y menor sea su influencia en el plano divino, mayor es su conexión con los planos mortales.
+
 Los siguientes son solo algunos de los dioses menores más notables, intentar catalogarlos a todos sería un esfuerzo vano:
 
----
 # *Deidades Domésticas*
 ## **Jwna:**
 Deidad menor del hogar y las posadas, la cual representa los valores de seguridad, hospitalidad y descanso. Es una deidad que protege a todos aquellos que buscan refugio y asentarse en un lugar de forma temporal o permanente.
@@ -205,7 +205,6 @@ Culto:
 - **Ofrendas:** Se le hacen ofrendas de dinero y sacrificios.
 
 # *Deidades Regionales*
-
 Las deidades regionales son aquellas que surgen como una forma de los pueblos y naciones del mundo de asegurarse que siempre tendrán una deidad protegiéndolos, manteniendo a sus ciudadanos unidos y sus valores intactos. Las deidades regionales de mayor influencia son las deidades continentales, seguidas por las deidades nacionales, estatales y urbanas. Las deidades regionales de gran influencia suelen tratar a las deidades de sus regiones internas con familiaridad, pudiendo ser consejeros, subordinados o familia, dependiendo de la relación interna de la región con sus partes.
 
 ## **Vinca**

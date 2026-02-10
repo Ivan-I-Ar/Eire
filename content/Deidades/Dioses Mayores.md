@@ -1,9 +1,6 @@
-
 Los dioses mayores son aquellos que formaron parte de la [[Información General#*Mito de la Creación*|creación del universo]]. Sin ellos, el universo como lo conocen los mortales no podría existir, por lo que tienen iglesias, seguidores y cultos propios. Aunque su existencia no depende de las alabanzas de los mortales, suelen recibir oraciones y ofrendas a cambio de ligeros cambios en sus dominios o pequeñas fuentes de poder. El culto y las formas de venerar o apaciguar a cada dios mayor es diferente, así como sus formas de ser representados.
 
----
 # *1° Generación:*
-
 ## **Jorho:**
 Con dominio sobre los elementos físicos que componen el universo, Jorho es la diosa responsable de crear el plano elemental. Diosa de los elementos y la alquimia, Jorho representa toda materia prima física que los mortales puedan encontrar en el universo. Es parte de la [[Corte de las Estaciones]] y se la invoca cuando se busca trabajar con los elementos o durante los solsticios.
 
@@ -38,7 +35,6 @@ Culto:
 
 ---
 # *2° Generación:*
-
 ## **Areia:**
 Con dominio sobre las disputas e intercambios violentos del universo, Areia es el responsable de la convivencia caótica del cosmos. Diosa del conflicto y disparidad, Areia representa la imposición de una fuerza por sobre la otra, usualmente para el detrimento de la fuerza perdedora. Se lo invoca cuando se quiere ganar la ventaja sobre un conflicto. 
 
