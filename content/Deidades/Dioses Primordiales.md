@@ -1,5 +1,6 @@
 
-![[Emblema - Dioses Primordiales.png]]
+![[Emblema - Dioses Primordiales.png#center]]
+
 Los dioses primordiales son aquellos que comprenden la base más pura del universo. Sin ellos, el cosmos no puede existir, por lo que son universalmente conocidos. Al ser los mayores dioses, no se los suele alabar de la misma forma que a los dioses mayores o menores. Generalmente se los considera como constantes ya integradas en el día a día de la gente, indiferentes a las alabanzas de los mortales. Suelen ser invocados sólo en situaciones de alta desesperación, festividad o reflexión. Todo templo suele representar a los 4 dioses en conjunto con un solo emblema, optando por no usar estatuas o pinturas.
 
 # *Tao*

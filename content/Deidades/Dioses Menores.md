@@ -1,4 +1,4 @@
-Los dioses menores son aquellos que no formaron parte de la [[Información General#*Mito de la Creación*|creación del universo]]. Son creados por los mortales o deidades mayores y dependen de sus iglesias, seguidores y cultos. Al surgir de conceptos que no son indispensables para el universo, las deidades menores existen para regular aspectos del universo que los mortales o demás deidades consideren importantes. Si se dejase de venerar a los dioses menores, estos pierden su poder y una de tres cosas pueden pasar:
+Los dioses menores son aquellos que no formaron parte de la [[Cosmología#*Mito de la Creación*|creación del universo]]. Son creados por los mortales o deidades mayores y dependen de sus iglesias, seguidores y cultos. Al surgir de conceptos que no son indispensables para el universo, las deidades menores existen para regular aspectos del universo que los mortales o demás deidades consideren importantes. Si se dejase de venerar a los dioses menores, estos pierden su poder y una de tres cosas pueden pasar:
 - La conciencia y aspecto físico de la deidad mueren, dejando el puesto libre para que una nueva deidad surja en su lugar si el concepto vuelve a ser venerado.
 - La deidad entra en un estado de "hibernación" hasta volver a ser venerada.
 - Si a pesar de no ser venerada, los mortales aún le adjudican poder al concepto que la deidad representa, esta podría renacer como un demonio de dicho concepto.
@@ -196,12 +196,12 @@ Culto:
 - **Aspectos:** Misere no tiene aspectos adicionales.
 - **Ofrendas:** Se le hacen ofrendas de dinero y ramos de laurel.
 
-## **Slean**
+## **Krryl**
 Deidad de la purga y la purificación, la cual representa los valores de pureza y perfeccionamiento. Es una deidad vengativa que se dedica únicamente a la protección de los planos mortales de los demonios y las aberraciones de los planos hostiles.
 
 Culto:
-- **Representación:** Slean se suele representar como un hombre humanoide con una lanza en una mano y un arco en la otra.
-- **Aspectos:** Slean no tiene aspectos adicionales.
+- **Representación:** Krryl se suele representar como un hombre humanoide con una lanza en una mano y un arco en la otra.
+- **Aspectos:** Krryl no tiene aspectos adicionales.
 - **Ofrendas:** Se le hacen ofrendas de dinero y sacrificios.
 
 # *Deidades Regionales*
