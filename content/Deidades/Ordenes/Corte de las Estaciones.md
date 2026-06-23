@@ -4,12 +4,12 @@ La corte de las estaciones está compuesta de todos los dioses que representan c
 
 **Flumen:** El dios del movimiento mantiene un crecimiento continuo de las cosechas y el ganado.
 
-**Vinla:** El dios del equilibrio permite neutralizar las temperaturas de las estaciones para evitar las temperaturas extremas.
+**Vinla:** El dios del equilibrio permite neutralizar las condiciones de crecimiento para evitar las malas cosechas.
 
 **Tuxera:** La diosa de la vida promueve la proliferación de las cosechas y la fertilidad y salud del ganado. 
 
 **Thoros:** El dios de la muerte mantiene la muerte y las enfermedades aisladas para no perjudicar al ganado o las cosechas.
 
-**Mahi'Ai:** La diosa de la arquitectura se encarga de mantener el progreso general de las cosechas y de educar a todos los trabajadores de las granjas.
+**Mahi'Ai:** La diosa de la agricultura se encarga de mantener el progreso general de las cosechas y de educar a todos los trabajadores de las granjas.
 
 **Micen:** La diosa de las tormentas se encarga de evitar sequías e inundaciones en los campos.

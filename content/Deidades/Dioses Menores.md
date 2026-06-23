@@ -7,7 +7,7 @@ Las deidades menores están más en contacto con los planos físicos que las dei
 Los siguientes son solo algunos de los dioses menores más notables, intentar catalogarlos a todos sería un esfuerzo vano:
 
 # *Deidades Domésticas*
-## **Jwna:**
+## **Jwna**
 Deidad menor del hogar y las posadas, la cual representa los valores de seguridad, hospitalidad y descanso. Es una deidad que protege a todos aquellos que buscan refugio y asentarse en un lugar de forma temporal o permanente.
 
 Culto:
@@ -15,7 +15,7 @@ Culto:
 - **Aspectos:** Jonna no tiene aspectos adicionales.
 - **Ofrendas:** Se le hacen ofrendas de dinero, comida, semillas y fuego.
 
-## **Kaiso:**
+## **Kaiso**
 Deidad menor de la familia, la cual representa los valores de matrimonio, paternidad/maternidad y fraternidad. Es una deidad que vela por todo vínculo que se forme entre dos personas con genuino amor el uno por el otro, sea por sangre u otras circunstancias.
 
 Culto:
@@ -23,8 +23,8 @@ Culto:
 - **Aspectos:** Guardian, Protegido, Fraterno, Sacerdote.
 - **Ofrendas:** Se le hacen ofrendas de dinero, lazos y talismanes hechos con nudos.
 
-## **Ramph:**
-Deidad menor de la cocina, la cual representa el arte del el procesado de materias primas para su consumo. Es una deidad que busca la innovación y el balance entre la constancia y la inconsistencia de las preparaciones.
+## **Ramph**
+Deidad menor de la cocina, la cual representa el arte del procesado de materias primas para su consumo. Es una deidad que busca la innovación y el balance entre la constancia y la inconsistencia de las preparaciones.
 
 Culto:
 - **Representación:** Ramph se suele representar como un hombre humanoide cargado con leña y elementos de cocina.
@@ -188,7 +188,7 @@ Culto:
 - **Aspectos:** Francus no tiene aspectos adicionales.
 - **Ofrendas:** Se le hacen ofrendas de dinero y armas de madera.
 
-## **Misere:**
+## **Misere**
 Deidad de la piedad, la cual representa los valores de misericordia y benevolencia. Es una deidad protectora que se suele asociar en contraposición a las deidades que fomentan o se benefician de la violencia entre los mortales.
 
 Culto:
@@ -196,12 +196,12 @@ Culto:
 - **Aspectos:** Misere no tiene aspectos adicionales.
 - **Ofrendas:** Se le hacen ofrendas de dinero y ramos de laurel.
 
-## **Krryl**
+## **Thaggart**
 Deidad de la purga y la purificación, la cual representa los valores de pureza y perfeccionamiento. Es una deidad vengativa que se dedica únicamente a la protección de los planos mortales de los demonios y las aberraciones de los planos hostiles.
 
 Culto:
-- **Representación:** Krryl se suele representar como un hombre humanoide con una lanza en una mano y un arco en la otra.
-- **Aspectos:** Krryl no tiene aspectos adicionales.
+- **Representación:** Thaggart se suele representar como un hombre humanoide con una lanza en una mano y un arco en la otra.
+- **Aspectos:** Thaggart no tiene aspectos adicionales.
 - **Ofrendas:** Se le hacen ofrendas de dinero y sacrificios.
 
 # *Deidades Regionales*

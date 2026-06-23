@@ -2,7 +2,7 @@ Los dioses mayores son aquellos que formaron parte de la [[Cosmología#*Mito de 
 
 # *1° Generación:*
 ## **Jorho:**
-Con dominio sobre los elementos físicos que componen el universo, Jorho es la diosa responsable de crear el plano elemental. Diosa de los elementos y la alquimia, Jorho representa toda materia prima física que los mortales puedan encontrar en el universo. Es parte de la [[Corte de las Estaciones]] y se la invoca cuando se busca trabajar con los elementos o durante los solsticios.
+Con dominio sobre los elementos físicos que componen el universo, Jorho es la diosa responsable de crear el [[Los Planos#**El Plano Elemental **|plano elemental]]. Diosa de los elementos y la alquimia, Jorho representa toda materia prima física que los mortales puedan encontrar en el universo. Es parte de la [[Corte de las Estaciones]] y se la invoca cuando se busca trabajar con los elementos o durante los solsticios.
 
 Culto:
 - **Representación:** Si es posible, se la representa en sus templos con el elemento más antiguo del lugar (un fuego mantenido por generaciones, una piedra base anterior a cualquier edificio, etc.) aunque también se la puede representar con estatuas de interpretación física libre. 
@@ -36,15 +36,15 @@ Culto:
 ---
 # *2° Generación:*
 ## **Areia:**
-Con dominio sobre las disputas e intercambios violentos del universo, Areia es el responsable de la convivencia caótica del cosmos. Diosa del conflicto y disparidad, Areia representa la imposición de una fuerza por sobre la otra, usualmente para el detrimento de la fuerza perdedora. Se lo invoca cuando se quiere ganar la ventaja sobre un conflicto. 
+Con dominio sobre las disputas e intercambios violentos del universo, Areia es al responsable de la convivencia caótica del cosmos. Diosa del conflicto y disparidad, Areia representa la imposición de una fuerza por sobre la otra, usualmente para el detrimento de la fuerza perdedora. Se lo invoca cuando se quiere ganar una ventaja sobre otros. 
 
 Culto:
 - **Representación:** Si es posible, se la representa con armaduras o armas de gran escala con mucho cuidado en su elaboración, aunque también se la puede representar con estatuas de interpretación física libre.
 - **Aspectos:** Guerrera, Estratega, Piadosa.
-- **Ofrendas:** Se le ofrecen armas y armaduras que hayan visto combate, victorias en combate y botines de guerra.
+- **Ofrendas:** Se le ofrecen armas y armaduras que hayan visto combate, victorias y botines de guerra.
 
 ## **Vinla:**
-Con dominio sobre la indiferencia y coexistencia de la creación, Vinla es la responsable de la convivencia de los elementos del cosmos. Dios de la paz, la armonía y el equilibrio, Vinla representa la existencia conjunta y apaciguada de los elementos del universo. Es parte de la [[Corte de las Estaciones]] y se lo invoca cuando se quiere restaurar o mantener un estado de paz o tranquilidad o durante los solsticios.
+Con dominio sobre la indiferencia y coexistencia de la creación, Vinla es el responsable de la convivencia de los elementos del cosmos. Dios de la paz, la armonía y el equilibrio, Vinla representa la existencia conjunta y apaciguada de los elementos del universo. Es parte de la [[Corte de las Estaciones]] y se lo invoca cuando se quiere restaurar o mantener un estado de paz o tranquilidad o durante los solsticios.
 
 Culto:
 - **Representación:** Si es posible, se lo representa con estatuas simétricas de representación libre, con sus brazos abiertos y acompañado de una o más palomas a medio vuelo.
@@ -76,7 +76,7 @@ Culto:
 - **Ofrendas:** Se le ofrecen telas y mantos de calidad, cristales opacos y revelaciones. Los criminales suelen ofrecer parte de sus ganancias.
 
 ## **Tuxera:**
-Con dominio sobre todos los celestials, elementals, fey, giants, humanoids y la mitad de la vegetación del cosmos, Tuxera es la responsable de la mitad de la vida del universo. Diosa de la vida, la salud y la fertilidad, Tuxera representa la vida más evolucionada del universo. Es parte de la [[Corte de las Estaciones]] y la [[Trinidad de los Mortales]], se la invoca durante nacimientos, enfermedades y épocas de cosecha o durante los solsticios.
+Con dominio sobre todos los beasts, elementals, fey, giants, humanoids y la mitad de la vegetación del cosmos, Tuxera es la responsable de la mitad de la vida del universo. Diosa de la vida, la salud y la fertilidad, Tuxera representa la vida más evolucionada del universo. Es parte de la [[Corte de las Estaciones]] y la [[Trinidad de los Mortales]], se la invoca durante nacimientos, enfermedades y épocas de cosecha o durante los solsticios.
 
 Culto:
 - **Representación:** Si se puede, se la representa con esculturas de materiales inorgánicos de interpretación libre, en medio de jardines acondicionados para el cuidado de animales domésticos.
@@ -84,7 +84,7 @@ Culto:
 - **Ofrendas:** Se le ofrecen hojas de té, hierbas medicinales y crías sanas de animales domésticos.
 
 ## **Tuxare:**
-Con dominio sobre todos los aberrations, beasts, dragons, monstrosities, oozes y la mitad de la vegetación del cosmos, Tuxare es la responsable de la mitad de la vida del universo. Diosa de la vida, la medicina y las bestias; comúnmente llamada “La Madre de los Monstruos”, Tuxare representa la vida más primitiva del universo. Es parte de la [[Trinidad de los Mortales]] y se la invoca durante enfermedades y plagas, cuando se busca protección de/para monstruos y durante expediciones en sus territorios.
+Con dominio sobre todos los aberrations, dragons, monstrosities, oozes y la mitad de la vegetación del cosmos, Tuxare es la responsable de la mitad de la vida del universo. Diosa de la vida, la medicina y las bestias; comúnmente llamada “La Madre de los Monstruos”, Tuxare representa la vida más primitiva del universo. Es parte de la [[Trinidad de los Mortales]] y se la invoca durante enfermedades y plagas, cuando se busca protección de/para monstruos y durante expediciones en sus territorios.
 
 Culto:
 - **Representación:** Si se puede, se la representa con pinturas y esculturas de interpretación libre con una corona de flores y túnicas anchas que cubra a sus espaldas.

@@ -14,4 +14,4 @@ La mitología de Eire es compleja, con un [[Cosmología#*Mito de la Creación*|m
 - [[Dioses Primordiales]]
 - [[Dioses Mayores]]
 - [[Dioses Menores]]
-- [[Demonios]]
+- [[Demonios Mayores]]
