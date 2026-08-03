@@ -1,18 +1,18 @@
-Los dioses menores son aquellos que no formaron parte de la [[Cosmología#*Mito de la Creación*|creación del universo]]. Son creados por los mortales o deidades mayores y dependen de sus iglesias, seguidores y cultos. Al surgir de conceptos que no son indispensables para el universo, las deidades menores existen para regular aspectos del universo que los mortales o demás deidades consideren importantes. Si se dejase de venerar a los dioses menores, estos pierden su poder y una de tres cosas pueden pasar:
+Los dioses menores son aquellos que no formaron parte de la [[Cosmología#*Mito de la Creación*|creación del universo]]. Son creados por los mortales o deidades mayores y dependen de sus iglesias, seguidores y cultos. Al surgir de conceptos que no son indispensables para el universo, las deidades menores existen para regular aspectos del universo que los mortales o demás deidades consideren importantes. Si se dejase de venerar a un dios menor, este pierde su poder y una de tres cosas pueden pasar:
 - La conciencia y aspecto físico de la deidad mueren, dejando el puesto libre para que una nueva deidad surja en su lugar si el concepto vuelve a ser venerado.
 - La deidad entra en un estado de "hibernación" hasta volver a ser venerada.
 - Si a pesar de no ser venerada, los mortales aún le adjudican poder al concepto que la deidad representa, esta podría renacer como un demonio de dicho concepto.
 Las deidades menores están más en contacto con los planos físicos que las deidades mayores, mientras menos poder tenga la deidad y menor sea su influencia en el plano divino, mayor es su conexión con los planos mortales.
 
-Los siguientes son solo algunos de los dioses menores más notables, intentar catalogarlos a todos sería un esfuerzo vano:
+Los siguientes son solo algunos de los dioses menores más notables, ya que intentar catalogarlos a todos sería un esfuerzo vano:
 
 # *Deidades Domésticas*
 ## **Jwna**
 Deidad menor del hogar y las posadas, la cual representa los valores de seguridad, hospitalidad y descanso. Es una deidad que protege a todos aquellos que buscan refugio y asentarse en un lugar de forma temporal o permanente.
 
 Culto:
-- **Representación:** Jwna se suele representar como un humanoide de género ambiguo con una manta en sus manos.
-- **Aspectos:** Jonna no tiene aspectos adicionales.
+- **Representación:** Jwna se suele representar como un humanoide de género ambiguo con telas y fuego en sus manos.
+- **Aspectos:** Jwna no tiene aspectos adicionales.
 - **Ofrendas:** Se le hacen ofrendas de dinero, comida, semillas y fuego.
 
 ## **Kaiso**
@@ -33,7 +33,7 @@ Culto:
 
 # *Deidades Industriales*
 ## **Garth**
-Deidad menor de la herrería y la forja, la cual representa los valores de paciencia, constancia y precisión. Es una deidad que busca fortalecer y traerle claridad a quienes dediquen su vida a la forja de gemas y minerales.
+Deidad menor de la herrería y la forja, la cual representa los valores de paciencia, constancia y precisión. Es una deidad que busca fortalecer y traerle claridad a quienes dediquen su vida a la forja de metales y gemas.
 
 Culto:
 - **Representación:** Garth se suele representar como un hombre humanoide con un martillo y fuego en sus manos.
@@ -49,7 +49,7 @@ Culto:
 - **Ofrendas:** Se le hacen ofrendas de oro, huesos y semillas.
 
 ## **Phalavio**
-Deidad menor de la medicina, la cual representa el cuidado de los enfermos y la salubridad. Es una deidad que busca la pureza y prosperidad de los mortales, aborreciendo toda forma de daño o corrupción corporal.
+Deidad menor de la medicina, la cual representa el cuidado de los enfermos y la salubridad. Es una deidad que busca la salud y prosperidad de los mortales, aborreciendo toda forma de daño o corrupción corporal.
 
 Culto:
 - **Representación:** Phalavio se suele representar como un hombre humanoide con un báculo en una mano y una palangana con agua en la otra.
@@ -60,7 +60,7 @@ Culto:
 Deidad de la construcción, la arquitectura y las ciudades, la cual representa los valores de progreso, protección y organización. Es una deidad que se rehúsa a tomar una forma o plantear una única manera de rendirle culto.
 
 Culto:
-- **Representación:** Kereh se suele representar como un humanoide (masculino o femenino) con una pluma en una mano y un poco del material usado para su representación en la otra..
+- **Representación:** Kereh se suele representar como un humanoide (masculino o femenino) con una pluma en una mano y un poco del material usado para su representación en la otra.
 - **Aspectos:** Kerehe no tiene aspectos adicionales.
 - **Ofrendas:** Se le hacen ofrendas de oro y agua.
 
@@ -89,10 +89,10 @@ Culto:
 - **Ofrendas:** Se le hacen ofrendas de oro, secretos y viajes.
 
 ## **Ruprier**
-Deidad de la riqueza y el intercambio, la cual representa los valores del materialismo y los tratos justos. Es una de las pocas deidades conocidas que surgió como un demonio y ascendió a divinidad, por lo que si interesa en la justicia y el comercio justo entre los mortales.
+Deidad de la riqueza y el intercambio, la cual representa los valores del materialismo y los tratos justos. Es una de las pocas deidades conocidas que surgió como un demonio y ascendió a divinidad, por lo que se interesa en la justicia y el comercio justo entre los mortales.
 
 Culto:
-- **Representación:** Ruprier se suele representar como un hombre humanoide con ábaco en las manos y siempre con una sonrisa.
+- **Representación:** Ruprier se suele representar como un hombre humanoide sonriendo con un ábaco en las manos.
 - **Aspectos:** Comerciante, donante.
 - **Ofrendas:** Se le hacen ofrendas de dinero y contratos.
 
@@ -101,15 +101,15 @@ Culto:
 Deidad de la poesía, actuación y literatura, la cual representa los valores de las artes de la mente. Es una deidad que valora el proceso creativo interno y el análisis profundo de las artes mortales, teniendo un especial interés en los sueños.
 
 Culto:
-- **Representación:** Hypos se suele representar como un hombre humanoide cubierto en túnicas con, una máscara en sus manos.
+- **Representación:** Hypos se suele representar como un hombre humanoide cubierto en túnicas con una máscara en sus manos.
 - **Aspectos:** Cómico, Trágico.
-- **Ofrendas:** Se le hacen ofrendas de dinero y piezas de arte no reveladas aún.
+- **Ofrendas:** Se le hacen ofrendas de dinero y piezas de arte aún no reveladas públicamente.
 
 ## **Psalte**
 Deidad de la música, la pintura y la escultura, la cual representa los valores de las artes físicas. Es una deidad que valora el perfeccionismo y las personas que piensan fuera de la caja, teniendo un especial interés en los paisajes.
 
 Culto:
-- **Representación:** Psalte se suele representar como una mujer humanoide con un martillo y un lápiz en una mano y una esfera de cristal en la otra.
+- **Representación:** Psalte se suele representar como una mujer humanoide con un martillo o un lápiz en una mano y una esfera de cristal en la otra.
 - **Aspectos:** Psalte no tiene aspectos adicionales.
 - **Ofrendas:** Se le hacen ofrendas de dinero y herramientas de las artes.
 
@@ -134,7 +134,7 @@ Culto:
 Deidad de los bosques y arrecifes, la cual representa los valores de armonía y coexistencia. Es una deidad calma que busca el respeto por la naturaleza y el balance de los ecosistemas del mundo.
 
 Culto:
-- **Representación:** Mori se suele representar como un humanoide (masculino o femenino) con características aminales o vegetales con una tela sobre sus hombros y una corona de flores y huesos.
+- **Representación:** Mori se suele representar como un humanoide (masculino o femenino) de características aminales o vegetales con una tela sobre sus hombros y una corona de flores y huesos.
 - **Aspectos:** Mori no tiene aspectos adicionales.
 - **Ofrendas:** Se le suelen hacer ofrendas de dinero, semillas y polen.
 
@@ -143,12 +143,12 @@ Culto:
 Deidad de la bondad y generosidad, la cual representa los valores del altruismo y la buena voluntad. Es una deidad que busca reforzar los lazos de los mortales con el mundo que los rodea y su voluntad de sacrificar por los demás.
 
 Culto:
-- **Representación:** Kamaikai se suele representar como una mujer humanoide con una rama de olivo en una mano y un lazo fino en la otra.
-- **Aspectos:** Kamaikai no tiene aspectos adicionales.
+- **Representación:** Kamaki se suele representar como una mujer humanoide con una rama de olivo en una mano y un lazo fino en la otra.
+- **Aspectos:** Kamaki no tiene aspectos adicionales.
 - **Ofrendas:** Se le hacen ofrendas de dinero y alimentos.
 
 ## **Virtus**
-Deidad de los juicios y sentencias, la cual representa los valores del diálogo y la justa representación. Es una deidad que aborrece las mentiras y la corrupción, asociándose cercanamente con entidades que busquen la verdad ante todo.
+Deidad de los juicios y sentencias, la cual representa los valores del diálogo y la justa representación. Es una deidad que aborrece las mentiras y la corrupción, asociándose principalmente con entidades que busquen la verdad ante todo.
 
 Culto:
 - **Representación:** Virtus se suele representar como una mujer humanoide con una balanza en una mano y un libro en la otra.
@@ -156,7 +156,7 @@ Culto:
 - **Ofrendas:** Se le hacen ofrendas de secretos u oraciones. Virtus es de las pocas deidades menores que no acepta ofrendas monetarias.
 
 ## **Népoly**
-Deidad del amor en sus distintas facetas, la cual representa los valores de compasión y el afecto incondicional. Es una deidad impulsiva que se deleita en las relaciones mortales y los límites que la gente está dispuesta a cruzar por el amor.
+Deidad del amor en sus distintas facetas, la cual representa los valores de compasión, la pasión y el afecto incondicional. Es una deidad impulsiva que se deleita en las relaciones mortales y los límites que la gente está dispuesta a cruzar por el amor.
 
 Culto:
 - **Representación:** Népoly se debe representar en la imagen de la persona que el artista más ama, con un cáliz en una mano siendo el único elemento obligatorio.
@@ -205,10 +205,10 @@ Culto:
 - **Ofrendas:** Se le hacen ofrendas de dinero y sacrificios.
 
 # *Deidades Regionales*
-Las deidades regionales son aquellas que surgen como una forma de los pueblos y naciones del mundo de asegurarse que siempre tendrán una deidad protegiéndolos, manteniendo a sus ciudadanos unidos y sus valores intactos. Las deidades regionales de mayor influencia son las deidades continentales, seguidas por las deidades nacionales, estatales y urbanas. Las deidades regionales de gran influencia suelen tratar a las deidades de sus regiones internas con familiaridad, pudiendo ser consejeros, subordinados o familia, dependiendo de la relación interna de la región con sus partes.
+Las deidades regionales son aquellas que surgen como una forma de los pueblos y naciones del mundo de asegurarse que siempre tendrán una deidad protegiéndolos, manteniendo a sus ciudadanos unidos y sus valores intactos. Las deidades regionales de mayor influencia son las deidades continentales, seguidas por las deidades nacionales, estatales y urbanas. Las deidades regionales de gran influencia suelen tratar a las deidades de sus regiones internas con familiaridad, pudiendo ser consejeros, jefes o familiares, dependiendo de la relación interna de la región con sus partes.
 
 ## **Vinca**
-Deidad menor del continente Vinca, la cual representa los valores de descubrimiento y nuevas oportunidades. Es una deidad con visiones neutras y mayormente pacíficas hacia sus naciones, lo cual suele disuadir a los países de valorarla por sobre sus deidades nacionales.
+Deidad menor del continente [[Vinca, el Continente Manchado|Vinca]], la cual representa los valores de descubrimiento y nuevas oportunidades. Es una deidad con visiones neutras y mayormente pacíficas hacia sus naciones, lo cual suele disuadir a los países de valorarla por sobre sus deidades nacionales.
 
 Culto:
 - **Representación:** Vinca se suele representar como una mujer humanoide con alas, un mapa en una mano y una balanza en la otra.
@@ -216,7 +216,7 @@ Culto:
 - **Ofrendas:** Se le hacen ofrendas de dinero, incienso y muérdago.
 
 ## **Amaras**
-Deidad menor de la nación de Amaranth, la cual representa los valores de esfuerzo, ingenio y compañerismo. Es una deidad que valora las comunidades de su país y festeja las diferencias entre sus habitantes.
+Deidad menor de la nación de Ámaranth, la cual representa los valores de esfuerzo, ingenio y compañerismo. Es una deidad que valora las comunidades de su país y festeja las diferencias entre sus habitantes.
 
 Culto:
 - **Representación:** Amaras se suele representar como una mujer humanoide con un ramo de flores en una mano y un espejo en la otra.
@@ -243,7 +243,7 @@ Deidad menor de la nación de Ródhea, la cual representa los valores de investi
 Culto:
 - **Representación:** Ródhea se suele representar como un humanoide de género ambiguo con una pluma en una mano y una varita en la otra. 
 - **Aspectos:** Ródhea tiene un aspecto por campo de investigación (mecánica, arcana, historia, etc).
-- **Ofrendas:** Se le hacen ofrendas de dinero, copias de investigaciones y componentes materiales de hechizos.
+- **Ofrendas:** Se le hacen ofrendas de dinero, investigaciones y componentes materiales de hechizos.
 ## **Enthesta**
 Deidad menor de la nación de Enthesta, la cual representa los valores de libertad, sabiduría y fortaleza militar. Es una deidad reactiva que tiende a responder a las plegarias de todos sus ciudadanos por igual, sean reyes o plebeyos. Es la cabeza de la Corte de Enthesta, donde actúa como mediador de las demás deidades.
 
@@ -259,7 +259,7 @@ Culto:
 - **Aspectos:** Oreia no tiene aspectos adicionales.
 - **Ofrendas:** Se le hacen ofrendas de dinero y papiro.
 ## **Scarpiera**
-Deidad menor de la nación de Scarpiera, la cual representa los valores de la ley, el orden divino y la compasión. Es una deidad calma que participa lo más que puede en la cultura de su nación.
+Deidad menor de la nación de Scarpiera, la cual representa los valores de la ley, el orden divino y la compasión. Es una deidad que participa activamente en la cultura de su nación, siendo la mayor autoridad política de este.
 
 Culto:
 - **Representación:** Scarpiera se suele representar como una mujer humanoide de rasgos delicados, con un talisman en una mano y un plato de comida en la otra.

@@ -1,7 +1,7 @@
-Los demonios mayores son aquellos que se encuentran a la par de los [[Dioses Menores|dioses menores]]. Son creados por los mortales de forma inconsciente y dependen de su percepción y cultos. Al surgir de conceptos que no son indispensables para el universo, los demonios mayores existen como consecuencia del poder atribuido sobre conceptos que no sean venerados. Al tener existencias volátiles, los demonios suelen buscar asegurar su existencia de dos formas:
-- Usando su influencia sobre el mundo material para asegurarse que los mortales sigan cediéndole poder de forma involuntaria.
+Los demonios mayores son aquellos que se encuentran a la par de los [[Dioses Menores|dioses menores]]. Son creados por los mortales de forma inconsciente y dependen de su percepción y cultos. Al surgir de conceptos que no son indispensables para el universo, los demonios mayores existen como consecuencia del poder atribuido sobre conceptos que no sean activamente venerados. Al tener existencias volátiles, los demonios suelen buscar asegurar su existencia de dos formas:
+- Usando su influencia sobre el mundo mortal para asegurarse que los mortales sigan cediéndole poder de forma involuntaria.
 - Generando un culto que le provea con suficientes alabanzas para ascender como deidad.
-Para ascender a la divinidad, un demonio necesita más plegarias que si se fuese a crear un dios menor, ya que el concepto queda asociado a la realidad demoníaca de su concepción (Ej: Si 100 personas pueden crear un dios menor, y 100.000 personas pueden crear un demonio, el demonio necesitaría al menos 10.000 seguidores para ascender como deidad). Una vez que un demonio mayor asciende como deidad menor, su existencia se vuelve dependiente de las alabanzas y ofrendas de sus seguidores.
+Para ascender a la divinidad, un demonio necesita más plegarias que si se fuese a crear un dios menor, ya que el concepto ya está asociado a la realidad demoníaca de su concepción (Ej: Si 100 personas pueden crear un dios menor, y 100.000 personas pueden crear un demonio, el demonio necesitaría al menos 10.000 seguidores para ascender como deidad). Una vez que un demonio mayor asciende como deidad menor, su existencia se vuelve dependiente de las alabanzas y ofrendas de sus seguidores.
 
 Los siguientes son solo algunos de los demonios mayores más notables, intentar catalogarlos a todos sería un esfuerzo vano. Ninguno de ellos es catalogado por su nombre real. Todas las representaciones de los demonios mayores son demasiado erráticas y cambiantes como para ser registradas:
 
@@ -17,7 +17,7 @@ Demonio mayor de la obediencia, el cual surge de la lealtad y la dedicación a s
 
 Culto:
 - **Sacrificios:** Se sacrifican manifiestos y reglamentos físicos en su honra. Se realizan rituales de sumisión en su nombre.
-- **Seguidores:** Los seguidores de Fass se dedican a imponer orden y seguir los reglamentos de todo lugar al que viajan. Suelen participar en juicios e intervenir en guardias locales.
+- **Seguidores:** Los seguidores de Fazz se dedican a imponer orden y seguir los reglamentos de todo lugar al que viajan. Suelen participar en juicios y trabajar con guardias locales.
 
 # *Khamae*
 Demonio mayor de la voluntad y la esperanza, la cual surge de la perseverancia y la fe de cada ser vivo. Es un demonio que busca avivar los fuegos del espíritu en cada problemática.
@@ -27,11 +27,11 @@ Culto:
 - **Seguidores:** Los seguidores de Khamae se dedican a inspirar y promover el poder de la unión y la fuerza de voluntad de todos los que se cruzan. Suelen ser líderes de revoluciones y revueltas.
 
 # *Soel*
-Demonio mayor de la soledad y la aislación, el cual surge del abandono y incomunicación. Es un demonio que busca imponer el individualismo de las personas.
+Demonio mayor de la soledad y la aislación, el cual surge del abandono y la incomunicación. Es un demonio que busca imponer el individualismo de las personas.
 
 Culto:
 - **Sacrificios:** Se sacrifican votos de silencio y aislación en su honra. Se realizan rituales de abandono en su nombre.
-- **Seguidores:** Los seguidores de Nept se dedican a meditar, reduciendo su contacto con otros seres vivos al máximo, o a usar su influencia para aislar a otros. Suelen ser elusivos y juntarse solo para hacer ofrendas y rituales.
+- **Seguidores:** Los seguidores de Soel se dedican a meditar, reduciendo su contacto con otros seres vivos al máximo, o a usar su influencia para aislar a otros. Suelen ser elusivos y juntarse solo para hacer ofrendas y rituales.
 
 # *Ygh*
 Demonio mayor de la ira y la crueldad, la cual surge de la venganza y el sadismo. Es un demonio que busca cegar los demás sentidos con odio.
@@ -51,11 +51,11 @@ Culto:
 Demonio mayor de las mentiras y el engaño, el cual surge de ocultar o torcer de la verdad. Es un demonio que desea ocultar el estudio de la realidad.
 
 Culto:
-- **Sacrificios:** Se sacrifican engaños en su honra. Se realizan rituales de falsificación en su nombre.
+- **Sacrificios:** Se sacrifican mentiras en su honra. Se realizan rituales de falsificación en su nombre.
 - **Seguidores:** Los seguidores de Path se enorgullecen de sus distintas identidades y tienden a aborrecer el feywild. Suelen ser estafadores, políticos y consejeros.
 
 # *Phobos*
-Demonio mayor del miedo, el cual surge del temor y el disgusto. Uno de los demonios más antiguos y poderosos, se lo suele conocer como "El Padre de los Demonios", quien busca esparcir el pánico y la paranoia.
+Demonio mayor del miedo, el cual surge del temor y el rechazo. Uno de los demonios más antiguos y poderosos, se lo suele conocer como "El Padre de los Demonios", quien busca esparcir el pánico y la paranoia.
 
 Culto:
 - **Sacrificios:** Se sacrifican objetos que produzcan terror en su honra. Se realizan rituales de intimidación en su nombre.
